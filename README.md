@@ -13,7 +13,7 @@ npm install
 ## Usage
 
 ```bash
-npx run open
+npx cypress open
 ```
 
 Then click on the feature file you want to run 
